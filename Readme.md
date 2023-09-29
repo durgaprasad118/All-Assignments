@@ -1,7 +1,7 @@
 
 
 # All Assignments
-
+---
 ## Micro Project 1
 - [GitHub Link](https://github.com/durgaprasad118/All-Assignments/tree/main/microproject1)
 - [Live Demo](https://microproject1-nine.vercel.app/) 
